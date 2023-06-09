@@ -7,13 +7,14 @@
   background: var(--color-bg-variant);
   padding: 1.2rem;
   border-radius: 2rem;
-  border: 1px solid transparent;
+  border: 2px solid transparent;
   transition: var(--transition);
 }
 
 .portfoilo__item:hover {
   background-color: var(--color-primary-variant);
   background: transparent;
+  border-color: var(--color-primary-variant);
 }
 
 .portfolio__item-image {
