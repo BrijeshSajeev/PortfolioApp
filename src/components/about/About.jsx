@@ -28,19 +28,21 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>300+ Worldwide</small>
+              <small>10+ Worldwide</small>
             </article>
 
             <article className="about__card">
               <VscProject className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Projects</small>
+              <small>20+ Projects</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis alias
-            odio, magnam quaerat quasi nostrum provident, unde rem praesentium
-            ipsum a fugit neque optio ducimus, esse itaque rerum quo explicabo!
+            I am Brijesh, a dedicated computer science and engineering student
+            driven by a deep passion for technology. With a strong work ethic
+            and a commitment to excellence, I thrive in problem-solving and have
+            a keen interest in software development, hardware design, and
+            machine learning.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

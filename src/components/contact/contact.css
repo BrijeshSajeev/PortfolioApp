@@ -1,12 +1,14 @@
 .contact__container {
-  width: 58%;
+  width: 62%;
   display: grid;
   grid-template-columns: 30% 50%;
   gap: 12rem;
+  /* padding: 0.5rem; */
 }
 
 .contact__options {
   display: flex;
+  /* padding: 0.4rem; */
   flex-direction: column;
   gap: 1.2rem;
 }

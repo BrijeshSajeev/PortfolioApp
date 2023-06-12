@@ -15,19 +15,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p> UX/UI design and code implementation.</p>
             </li>
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Offering services in wireframing.</p>
             </li>
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Offering services in prototyping.</p>
             </li>
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Offering services in visual design,.</p>
             </li>
             {/* End of UX/UI */}
           </ul>
@@ -40,23 +40,23 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Responsive website design.</p>
             </li>
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Custom web application development.</p>
             </li>
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Website optimization and performance enhancement .</p>
             </li>
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Content management system (CMS) implementation.</p>
             </li>
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Search engine optimization.</p>
             </li>
             {/* End of web */}
           </ul>
@@ -69,20 +69,17 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Compelling blog and article writing.</p>
             </li>
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Creative copywriting for websites and marketing materials.</p>
             </li>
             <li>
               <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Engaging social media content creation and management..</p>
             </li>
-            <li>
-              <BsCheckLg className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
+
             {/* End of CC */}
           </ul>
         </article>
